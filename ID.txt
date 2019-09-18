@@ -1,0 +1,12 @@
+1 Daniel Chu Math96 CS99 Phy99
+2 Julian Ye Math94 CS93 Phy90
+3 Lisa Xu Math87 CS94 Phy88
+4 Shirley Zeng Math91 CS95 Phy100
+5 Nico Jiang Math98 CS98 Phy92
+6 Tim Xing Math89 CS98 Phy88
+7 James Liu Math94 CS94 Phy95
+8 Andy Zhang Math86 CS93 Phy90
+9 Cathy Yang Math100 CS98 Phy100
+10 Brian Shan Math96 CS99 Phy85
+11 Harry Fang Math87 CS96 Phy94
+12 Jack Jin Math62 CS83 Phy35
